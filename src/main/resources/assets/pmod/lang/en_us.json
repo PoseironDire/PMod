@@ -1,0 +1,24 @@
+{
+  "item.pmod.titanium_ingot": "Titanium Ingot",
+  "item.pmod.titanium_nugget": "Titanium Nugget",
+  "item.pmod.raw_titanium": "Raw Titanium",
+
+  "block.pmod.titanium_block": "Titanium Block",
+  "block.pmod.titanium_slab": "Titanium Slab",
+  "block.pmod.titanium_stairs": "Titanium Stairs",
+  "block.pmod.titanium_fence": "Titanium Fence",
+  "block.pmod.titanium_fence_gate": "Titanium Fence Gate",
+  "block.pmod.titanium_ore": "Titanium Ore",
+  "block.pmod.deepslate_titanium_ore": "Deepslate Titanium Ore",
+  "block.pmod.raw_titanium_ore": "Block Of Raw Titanium",
+
+  "block.pmod.ender_planks": "Ender Planks",
+  "block.pmod.ender_log": "Ender Log",
+  "block.pmod.ender_wood": "Ender Wood",
+  "block.pmod.stripped_ender_log": "Stripped Ender Log",
+  "block.pmod.stripped_ender_wood": "Stripped Ender Wood",
+
+  "item.pmod.end_sword": "End Sword",
+
+  "itemGroup.pmModTab": "Mod Tab"
+}
