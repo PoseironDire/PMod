@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "pmod:stripped_ender_log"
+    }
+  },
+  "result": {
+    "item": "pmod:stripped_ender_wood",
+    "count": 3
+  }
+}

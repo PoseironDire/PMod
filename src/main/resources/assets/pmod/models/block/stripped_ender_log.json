@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "pmod:block/stripped_ender_log_top",
+    "side": "pmod:block/stripped_ender_log"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "pmod:block/titanium_block",
+    "top": "pmod:block/titanium_block",
+    "side": "pmod:block/titanium_block"
+  }
+}

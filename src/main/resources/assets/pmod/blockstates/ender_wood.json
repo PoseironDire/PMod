@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "pmod:block/ender_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "pmod:block/ender_wood"
+    },
+    "axis=z": {
+      "model": "pmod:block/ender_wood",
+      "x": 90
+    }
+  }
+}

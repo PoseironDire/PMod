@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pmod:raw_titanium_ore"
+    }
+  ],
+  "result": {
+    "item": "pmod:raw_titanium",
+    "count": 9
+  }
+}

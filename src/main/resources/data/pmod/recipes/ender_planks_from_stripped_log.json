@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "pmod:stripped_ender_log"
+    }
+  ],
+  "result": {
+    "item": "pmod:ender_planks",
+    "count": 4
+  }
+}
